@@ -1,8 +1,8 @@
-CMPS 222 Object-Oriented Programming
-Builds on foundation provided by CMPS 221 to introduce the concepts of 
-object-oriented programming.  The course focuses on the definition and 
-use of classes and the fundamentals of object-oriented design.  Other 
-topics include:  an overview of programming language principles, basic 
-searching and sorting techniques, and an introduction to software 
-engineering issues.  Each week lecture meets for 200 minutes and lab 
-meets for 150 minutes. Prerequisite:  CMPS 221.
+# cmps221 - Programming Fundamentals
+Introduces the fundamentals of procedural programming. Topics include: 
+data types, control structures, functions, arrays, and standard and 
+file I/O. The mechanics of compiling, linking, running, debugging and 
+testing within a particular programming environment are covered. 
+Ethical issues and a historical perspective of programming within the 
+context of computer science as a discipline is given. Prerequisite: 
+MATH 85 or other satisfaction of the ELM requirement. 
